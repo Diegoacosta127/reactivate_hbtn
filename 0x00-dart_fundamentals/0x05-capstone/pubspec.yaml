@@ -1,0 +1,10 @@
+name: report
+
+description: "A modular console report generator"
+
+environment:
+  sdk: '^3.1.0'
+
+dependencies:
+  intl: any
+  characters: any
