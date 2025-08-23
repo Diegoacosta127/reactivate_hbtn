@@ -1,0 +1,13 @@
+name: JSON_serialization_deserialization
+
+description: ""
+
+environment:
+  sdk: '^3.1.0'
+
+dependencies:
+  json_annotation: any
+
+dev_dependencies:
+  json_serializable: any
+  build_runner: any
